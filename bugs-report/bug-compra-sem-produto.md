@@ -1,11 +1,11 @@
-# 🐞 Bug Report - Compra sem produto no carrinho
+# Bug Report - Compra sem produto no carrinho
 
 ## Descrição
 Usuário consegue finalizar uma compra mesmo com o carrinho vazio, sem adicionar nenhum produto.
 
 ---
 
-## 🔁 Passos para Reproduzir
+## Passos para Reproduzir
 
 1. Logar com o usuário: `standard_user` e senha: `secret_sauce`;
 2. Clicar no botão de carrinho e aguardar redirecionamento para a página de carrinho de compras;

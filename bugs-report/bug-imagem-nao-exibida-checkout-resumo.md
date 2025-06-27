@@ -41,5 +41,7 @@ A **imagem do produto não é exibida** na tela de resumo da compra.
 ## Tipo de Teste
 - Teste de **Visual / UI**
 
+---
+
 ## Evidencia
 ![Evidência do Bug](../evidencias-bug-report/evidencia-imagem-nao-exibida-checkout-resumo.png)

@@ -1,4 +1,4 @@
-# 🐞 Bug Report - Imagem do Produto não exibida no Carrinho de Compras
+# Bug Report - Imagem do Produto não exibida no Carrinho de Compras
 
 ## Descrição
 Na tela do carrinho de compras, ao adicionar um produto, **a imagem do item não é exibida**, comprometendo a visualização completa do produto pelo usuário.
@@ -39,6 +39,8 @@ O produto apresenta apenas a **descrição e a quantidade**, **sem exibir a imag
 
 ## Tipo de Teste
 - Teste de **Visual / UI**
+
+---
 
 ## Evidencias
 ![Evidência do Bug](../evidencias-bug-report/evidencia-imagem-nao-exibida-carrinho.png)
