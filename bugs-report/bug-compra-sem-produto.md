@@ -41,5 +41,5 @@ Mesmo com o carrinho **vazio**, o sistema permite **avançar até o final** da c
 ---
 
 ## Evidencia
-![Evidência do Bug](../bugs-report/evidencias-bug-report/evidencia_bug.png)
+![Evidência do Bug](../evidencias-bug-report/evidencia-compra-sem-produto.png)
 
